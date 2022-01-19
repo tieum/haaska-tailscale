@@ -1,0 +1,3 @@
+[submodule "haaska"]
+	path = haaska
+	url = git@github.com:tieum/haaska.git
