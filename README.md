@@ -33,6 +33,7 @@ Dirty but working trick:
 - do the Account Linking part
 - revert code modifications, restart HA
 - update your DNS to point to your **HA Tailscale IP**
+- remove port 443 forwarding
 - profit
 
 Following is an example with Hass.io to get the 10 year token with ssh
